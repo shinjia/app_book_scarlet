@@ -25,7 +25,7 @@
 
 ## 之後版本更新
 
-- PhoneGap config.xml 中 versionCode = "1" 的值
+- PhoneGap config.xml 裡的版本代碼 versionCode="1" 要更改
 
 
 
