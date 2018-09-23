@@ -10,5 +10,17 @@
 
 ## 正式上架用
 
+- PhoneGap 的 config.xml 裡需增加SDK的版本設定 (需參考官方最新規定)
+
+```
+    <!-- 加入其它plugin設定 -->
+	<platform name="android">
+    	<preference name="android-targetSdkVersion" value="26" />
+	</platform>
+```
 - 須上傳簽署憑証檔案
 - 完成 _____-release.apk 檔案下載
+
+
+
+
