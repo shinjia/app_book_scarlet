@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   border-bottom: 1px solid #cf0000;
   color: #cf0000;
-  font-size: 70px;
+  font-size: 46px;
 
   height: 120px;
   position: relative;
@@ -51,11 +51,11 @@ h1 div {
   width: 100%;
   position: absolute;
   bottom: 0;
-  margin: 0 0 20px;
+  margin: 80 0 20px;
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 30px;
   letter-spacing: -2px;
   margin: 8px 0 2px;
   padding: 5px 0 2px;
@@ -172,7 +172,7 @@ img.right {
  * Chapter
  */
 #page.chapter h1 {
-  font-size: 42px;
+  font-size: 36px;
 }
 
 #page.chapter #content {
