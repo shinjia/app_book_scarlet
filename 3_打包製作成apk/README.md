@@ -23,5 +23,10 @@
 - 完成 _____-release.apk 檔案下載
 
 
+## 之後版本更新
+
+- PhoneGap config.xml 中 versionCode = "1" 的值
+
+
 
 
