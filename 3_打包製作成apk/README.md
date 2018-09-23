@@ -3,7 +3,7 @@
 
 ## 測試階段用
 
-- 須修改 config.xml 資料
+- 須修改 config.xml 內的資料
 - 使用 PhoneGap Build 上傳
 - 線上製作 _____-debug.apk 檔案下載
 
@@ -14,11 +14,12 @@
 
 ```
     <!-- 加入其它plugin設定 -->
-	<platform name="android">
-    	<preference name="android-targetSdkVersion" value="26" />
-	</platform>
+    <platform name="android">
+        <preference name="android-targetSdkVersion" value="26" />
+    </platform>
 ```
-- 須上傳簽署憑証檔案
+- 須上傳簽署憑証檔案 (xxxxx.keystore)
+
 - 完成 _____-release.apk 檔案下載
 
 
